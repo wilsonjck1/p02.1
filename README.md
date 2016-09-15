@@ -1,6 +1,6 @@
 # Problems
 
-- [ ] 
+- [ ] hit_100 
 - [ ]
 - [ ] roll_double
 - [ ]
