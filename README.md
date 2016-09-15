@@ -4,7 +4,7 @@
 - [ ]
 - [ ] roll_double
 - [ ]
-- [ ]
+- [ ] factor_test
 - [ ] 
 - [ ] fizzbuzz
 - [ ] troll_count
