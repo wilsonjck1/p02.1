@@ -2,10 +2,10 @@
 
 - [ ] 
 - [ ]
+- [ ] roll_double
 - [ ]
 - [ ]
-- [ ]
-- [ ]
+- [ ] 
 - [ ] fizzbuzz
 - [ ] troll_count
 
