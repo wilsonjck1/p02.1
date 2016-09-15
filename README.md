@@ -7,7 +7,7 @@
 - [ ]
 - [ ]
 - [ ] fizzbuzz
-- [ ]
+- [ ] troll_count
 
 
 # Conditionals - If/Elif/Else
