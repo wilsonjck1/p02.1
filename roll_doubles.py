@@ -7,7 +7,7 @@ Problem:
 
     The roll_double function takes in two numbers, one for each score
     on the dice. It should print out how many points the player should
-    recieve.
+    receive.
 
 Tests:
 
