@@ -22,7 +22,7 @@ Tests:
     >>> challenge(135, 125)
     Both teams progress
     >>> challenge(105, 105)
-    Both temas progress
+    Both teams progress
 
 """
 
