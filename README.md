@@ -1,9 +1,9 @@
 # Problems
 
 - [ ] hit_100 
-- [ ]
+- [ ] even_squares
 - [ ] roll_double
-- [ ]
+- [ ] university_challenge
 - [ ] factor_test
 - [ ] biggest
 - [ ] fizzbuzz
