@@ -16,7 +16,7 @@ Tests:
     >>> roll_double(4, 5)
     9
     >>> roll_double(2, 2)
-    8 
+    8
     >>> roll_double(5, 5)
     20
 
