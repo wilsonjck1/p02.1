@@ -34,8 +34,7 @@ def run_tests():
 def fizzbuzz(n):
 
     if n % 3 == 0 and n % 5 ==0:
-        
-     print ("FizzBuzz")
+        print ("FizzBuzz")
 
     elif n % 3 == 0:
         print("Fizz")
